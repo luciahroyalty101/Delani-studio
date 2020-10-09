@@ -1,4 +1,7 @@
-.logo{
+ body{
+     text-align: center;
+ }
+ .logo{
 background-image: url(../images/image.jpg);
 height: 600px;
 }
@@ -14,12 +17,9 @@ height: 600px;
     color: wheat;
     height: 200px;
 }
-/* .row{
-    padding: 0px 0px 0px 15px;
-} */
-/* .h4{
-    text-align: center;
-} */
+.what{
+    padding: 0px 0px 0px 200px;
+}
 .contact{
     background-image: url(../images/c_image.jpg);
     height: 600px;
@@ -33,4 +33,7 @@ height: 600px;
 .icons{
     float: right;
     padding: 10px 350px 0px 0px;
+}
+.copyright{
+    justify-content: flex-end;
 }
