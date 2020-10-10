@@ -1,82 +1,87 @@
- body {
-     text-align: center;
- }
+  @font-face {
+      src: url(/font/Lato-Regular.ttf);
+      font-family: lato;
+  }
 
- .logo {
-     background-image: url(../images/image.jpg);
-     height: 600px;
-     text-align: center;
-     background-size: cover;
- }
+  body {
+      text-align: center;
+  }
 
- .about {
-     text-align: center;
- }
+  .logo {
+      background-image: url(../images/image.jpg);
+      height: 600px;
+      text-align: center;
+      background-size: cover;
+      font-family: lato;
+  }
 
- .services {
-     background-image: url(../images/s_image.jpg);
-     text-align: center;
-     color: white;
-     height: 200px;
- }
+  .about {
+      text-align: center;
+      font-family: lato;
+  }
 
- .contact {
-     background-image: url(../images/c_image.jpg);
-     height: 600px;
-     background-size: cover;
-     background-repeat: no-repeat;
-     height: 400px;
+  .services {
+      background-image: url(../images/s_image.jpg);
+      text-align: center;
+      color: white;
+      height: 200px;
+      font-family: lato;
+  }
 
- }
+  .what {
+      font-family: lato;
+  }
 
- .form {
-     margin: 30px;
-     /* background-color: white; */
-     /* border: 1px solid black; */
-     /* opacity: 0.6;  */
-     height: 300px;
- }
+  .contact {
+      background-image: url(../images/c_image.jpg);
+      height: 600px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 400px;
+      font-family: lato;
 
- /* .form-group{
-    opacity: 0.6;
-    background-color: white;
-} */
- .icons {
-     float: right;
-     padding: 10px 350px 0px 0px;
- }
+  }
 
- .copyright {
-     text-align: center;
- }
+  .form {
+      margin: 30px;
+      height: 300px;
+  }
 
- #comment {
-     background: none;
-     color: white;
- }
 
- /* #june::placeholder {
-    background: none;
-    color: white;
- } */
+  .icons {
+      float: right;
+      padding: 10px 350px 0px 0px;
+  }
 
- /* #june {
-    color: white;
-    background: none;
- } */
+  .copyright {
+      text-align: center;
+  }
 
- #comment::placeholder {
-     background: none;
-     color: white;
- }
+  #comment {
+      background: none;
+      color: white;
+  }
 
- .text {
-     position: absolute;
-     top: 0;
-     height: 100%;
-     width: 100%;
-     background-color: white;
-     opacity: 0.5;
-     display: none;
-     padding: 60px 40px 0px 0px;
- }
+  #comment::placeholder {
+      background: none;
+      color: white;
+  }
+
+  .text {
+      position: absolute;
+      top: 0;
+      height: 100%;
+      width: 100%;
+      background-color: white;
+      opacity: 0.5;
+      display: none;
+      padding: 60px 40px 0px 0px;
+  }
+
+  #form1 {
+      background-color: transparent;
+  }
+
+  #form2 {
+      background-color: transparent;
+  }
