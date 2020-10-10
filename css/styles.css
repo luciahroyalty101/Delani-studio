@@ -1,74 +1,82 @@
- body{
+ body {
      text-align: center;
  }
- .logo{
-background-image: url(../images/image.jpg);
-height: 600px;
-text-align: center;
-}
-.about{
-    text-align: center;
-}
-.services{
-    background-image: url(../images/s_image.jpg);
-    text-align: center;
-    color: white;
-    height: 200px;
-}
-.what{
-    padding: 0px 0px 0px 200px;
-}
-.contact{
-    background-image: url(../images/c_image.jpg);
-    height: 600px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 400px;
-    
-}
-.form{
-  margin: 30px;
-  /* background-color: white; */
-  /* border: 1px solid black; */
-  /* opacity: 0.6;  */
-  height: 300px;
- } 
-/* .form-group{
+
+ .logo {
+     background-image: url(../images/image.jpg);
+     height: 600px;
+     text-align: center;
+     background-size: cover;
+ }
+
+ .about {
+     text-align: center;
+ }
+
+ .services {
+     background-image: url(../images/s_image.jpg);
+     text-align: center;
+     color: white;
+     height: 200px;
+ }
+
+ .contact {
+     background-image: url(../images/c_image.jpg);
+     height: 600px;
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 400px;
+
+ }
+
+ .form {
+     margin: 30px;
+     /* background-color: white; */
+     /* border: 1px solid black; */
+     /* opacity: 0.6;  */
+     height: 300px;
+ }
+
+ /* .form-group{
     opacity: 0.6;
     background-color: white;
 } */
-.icons{
-    float: right;
-    padding: 10px 350px 0px 0px;
-}
-.copyright{
-    /* justify-content: flex-end; */
-    text-align: center;
-}
-#comment{
-    background: none;
-    color: white;
-}
-#june::placeholder{
-    background: none;
-    color: white;
-}
-#june{
-    color: white;
-    background: none;
-}
-#comment::placeholder{
-    background: none;
-    color: white;
-}    
-.text{
-    position: absolute;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    background-color: white;
-    opacity: 0.5;
-    display: none;
-}
+ .icons {
+     float: right;
+     padding: 10px 350px 0px 0px;
+ }
 
+ .copyright {
+     text-align: center;
+ }
 
+ #comment {
+     background: none;
+     color: white;
+ }
+
+ /* #june::placeholder {
+    background: none;
+    color: white;
+ } */
+
+ /* #june {
+    color: white;
+    background: none;
+ } */
+
+ #comment::placeholder {
+     background: none;
+     color: white;
+ }
+
+ .text {
+     position: absolute;
+     top: 0;
+     height: 100%;
+     width: 100%;
+     background-color: white;
+     opacity: 0.5;
+     display: none;
+     padding: 60px 40px 0px 0px;
+ }
