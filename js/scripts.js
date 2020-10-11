@@ -26,7 +26,7 @@ $("button").click(function () {
   if (comment === "") {
     alert("please enter a comment")
   } else {
-    alert(" Dear " + " esteemed " + form1 + " we have received your message succecifully. " + " Feel free to reach out unto us anytime");
+    alert(" Dear " + " esteemed " + form1 + " we have received your message successfully. " + " Feel free to reach out unto us anytime");
   }
 });
 $().ready(function () {
