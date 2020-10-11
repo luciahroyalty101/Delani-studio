@@ -77,11 +77,20 @@
       display: none;
       padding: 60px 40px 0px 0px;
   }
-
+  
   #form1 {
       background-color: transparent;
+      color: white;
   }
 
   #form2 {
       background-color: transparent;
   }
+#form1::placeholder{
+    color: white;
+}
+#form2::placeholder{
+    color: white;
+}
+
+
