@@ -2,7 +2,7 @@
 Lucy Wangeci Karimi
 # Delani Studio
 #### Description.
-This site is for an imaginary studio by the name Delani.The project showcases how you can navigate throughout this site easily.These datails are portrayed when you click the 'what we do' section.The site allows the user to rech out unto the person behind the system incase of enqueries and an alert is issued in return.The site also describes the various projects that have been done so far.
+This site is for an imaginary studio by the name Delani.The project showcases how you can navigate throughout this site easily.These details are portrayed when you click the 'what we do' section.The site allows the user to reach out unto the person behind the system incase of enqueries and an alert is issued in return.The site also describes the various projects that have been done so far.
 ## Setup/Installation Requirements
 * To run my page on your browser,
 * Git clone https://luciahroyalty101.github.io/Delani-studio/ to your terminal.
